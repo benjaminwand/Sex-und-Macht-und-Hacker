@@ -11,3 +11,12 @@ Aber es gibt da ein Problem. Vielleicht habt ihr mal gehört dass Leute in teure
 Wie gesagt, es geht bei Sexismus nicht um Sex, es geht um Macht. Lasst und über Macht reden. Vielen Dank.
 
 DECT 3212  —  @benjaminwand 
+
+
+In English, approximately: 
+
+Since some years we have this sexism-debate in the hacker scene. Some find it important, some find it annoying. I miss an aspect in the discussion: that sexism and sexual violence is about power. It isn’t about sex, it is about power.
+And hackers have a special relationship with power. One can show it three words: because we can. Doing uncommon things, playing with tech, gives us power that non-hackers don’t have. You don’t need to do pen tests for it, it is often the small things, everyone amongst you can find an example what you can do and what you have achieved because you dared to, because you were unhappy with the status quo, because you did it; any what your non-hacker acquaintances would *never* do.
+And that is great. Like that you can show that the BeA (German lawyer software) is broken. You can organize conferences that are better than anyone would have imagined. You teach kids to solder. Mentioning all the amazing projects that are happening right now in the hack-center would be inappropriately long for a lightning talk. 
+But there is a problem. Maybe you have heard that people in expensive cars drive exceptionally shitily. Power corrupts. And so, powerful hackers are, like other powerful people, sometimes shitty with other people. We have to achieve to enjoy the power when we use it for something good and be aware that you can’t to sudo with humans.
+Like I said, sexism isn’t about sex, it is about power. Let’s talk about power. Thanks a lot.
